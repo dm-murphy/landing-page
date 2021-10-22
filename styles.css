@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1F2937;
+}
+
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  gap: 16px;
+  color: #E5E7EB;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.logo {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #F9FAF8;
+}
