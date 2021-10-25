@@ -6,8 +6,8 @@ This is the new final project for the Flexbox lessons from [The Odin Project.](h
 
 ## Demo Online
 
-Check back soon for link to GitHub pages live demo.
+Check out this landing page on [GitHub Pages.](https://dm-murphy.github.io/landing-page/)
 
 ## What Was Learned
 
-I'll let you know when I'm done :-)
+It's been a while since I really played around with CSS for a full page design. This project was helpful to review the basics of CSS which is a nice refresher for doing Rails views. This assignment is great practice for using Flexbox too.
