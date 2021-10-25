@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0;
+  font-family: sans-serif;
 }
 
 .header {
@@ -16,12 +17,10 @@ body {
   list-style-type: none;
   gap: 16px;
   color: #E5E7EB;
-  font-family: sans-serif;
   font-size: 18px;
 }
 
 .logo {
-  font-family: sans-serif;
   font-size: 24px;
   color: #F9FAF8;
 }
@@ -50,7 +49,6 @@ body {
 }
 
 .awesome {
-  font-family: sans-serif;
   font-size: 48px;
   font-weight: 900;
   color: #F9FAF8;
@@ -59,7 +57,6 @@ body {
 
 .subtext {
   margin-top: 0px;
-  font-family: sans-serif;
   font-size: 18px;
   color: #E5E7EB;
 }
@@ -82,7 +79,6 @@ body {
 .information {
   margin-top: 100px;
   align-self: center;
-  font-family: sans-serif;
   font-size: 36px;
   font-weight: 900;
   color: #1F2937;
@@ -92,18 +88,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 42px;
+  gap: 70px;
 }
 
 .info-image {
-  width: 150px;
-  height: 125px;
+  width: 185px;
+  height: 150px;
   border: 5px solid lightblue;
   border-radius: 15px;
 }
 
 .info-item {
-  max-width: 150px;
+  max-width: 185px;
   text-align: center;
   color: #1F2937;
   font-size: 18px;
@@ -130,7 +126,6 @@ body {
   justify-content: center;
   align-items: center;
   max-width: 825px;
-  font-family: sans-serif; 
   font-size: 36px;
   font-style: italic;
   font-weight: 100;
@@ -140,7 +135,6 @@ body {
 
 .quote-attribution {
   margin-left: 600px;
-  
   font-size: 22px;
   font-weight: bold;
   color: black;
@@ -161,7 +155,6 @@ body {
 }
 
 .action-header {
-  font-family: sans-serif;
   font-weight: bold;
   color: white;
   font-size: 24px;
@@ -169,7 +162,6 @@ body {
 }
 
 .action-text {
-  font-family: sans-serif;
   color: #d0d8e4;
   font-size: 18px;
   margin-top: 0;
@@ -195,6 +187,4 @@ body {
 
 .footer-text {
   color: #d0d8e4;
-  font-family: sans-serif;
 }
-
