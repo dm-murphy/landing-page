@@ -150,7 +150,45 @@ body {
   margin-top: 5px;
 }
 
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .action-container {
   display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 1000px;
+  border-radius: 10px;
   background-color: #3882F6;
+  padding: 30px 50px 30px 50px;
 }
+
+.action-header {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.action-text {
+  font-family: sans-serif;
+  color: #d0d8e4;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.action-button {
+  color: white;
+  border: 3px solid white;
+  background-color: #3882F6;
+  border-radius: 10px;
+  padding: 10px 30px 10px 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
